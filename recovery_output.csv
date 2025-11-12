@@ -1,0 +1,40 @@
+cart_id,customer_email,selected_offer,discount_amount,email_subject,human_approved,dispatch_status,timestamp
+CART5000,cust1000@example.com,FREESHIP,10,Complete your order and save $10!,True,sent,2025-11-06T22:53:11.586690
+CART5089,cust1089@example.com,FREESHIP,10,Hey Customer 90! Almost there... Complete your order now!,True,sent,2025-11-07T04:14:47.662637
+CART5089,cust1089@example.com,vip,706.26,0.8,0.7,293.44,1,high_shipping_cost,high,FREESHIP,10.0,36.59,0.44,,True,sent,2025-11-07T16:38:53.640461
+CART5079,cust1079@example.com,returning,1950.16,0.46,0.47,1593.47,3,long_checkout_process,medium,FREESHIP,10.0,39.37,0.5683,,False,pending,2025-11-07T16:45:59.887259
+CART5070,cust1070@example.com,new,842.41,0.56,0.02,2708.04,3,payment_failure,high,WELCOME10,50.0,38.15,0.53,62,True,sent,2025-11-07T16:47:06.812270
+ CART5070,cust1070@example.com,new,842.41,0.56,0.02,2708.04,3,payment_failure,high,WELCOME10,50.0,38.15,0.53,,True,sent,2025-11-07T17:59:19.827207
+CART5070,cust1070@example.com,new,842.41,0.56,0.02,2708.04,3,payment_failure,high,WELCOME10,50.0,38.15,0.53,45,True,sent,2025-11-07T23:01:43.242391
+CART5070,cust1070@example.com,new,842.41,0.56,0.02,2708.04,3,payment_failure,high,WELCOME10,50.0,38.15,0.5758,,True,failed,2025-11-08T14:21:38.784612
+CART5070,cust1070@example.com,new,842.41,0.56,0.02,2708.04,3,payment_failure,high,WELCOME10,50.0,38.15,0.5758,,True,failed,2025-11-08T14:36:56.521584
+CART5070,cust1070@example.com,new,842.41,0.56,0.02,2708.04,3,payment_failure,high,WELCOME10,50.0,38.15,0.5758,,True,failed,2025-11-09T21:18:29.329595
+CART5070,cust1070@example.com,new,842.41,0.56,0.02,2708.04,3,payment_failure,high,WELCOME10,50.0,38.15,0.5758,,True,failed,2025-11-09T21:21:56.493478
+CART5000,sujit2005146@srec.ac.in,new,179.05,0.66,0.3,483.5,5,site_crash,high,FREESHIP,10.0,37.93,0.4414,,True,failed,2025-11-09T22:13:15.319308
+CART5000,sujit2005146@srec.ac.in,new,179.05,0.66,0.3,483.5,5,site_crash,high,FREESHIP,10.0,37.93,0.4414,63,True,failed,2025-11-09T22:26:46.156696
+CART5000,sujit2005146@srec.ac.in,new,179.05,0.66,0.3,483.5,5,site_crash,high,FREESHIP,10.0,37.93,0.4414,,True,failed,2025-11-09T22:36:30.706455
+CART5000,sujit2005146@srec.ac.in,new,179.05,0.66,0.3,483.5,5,site_crash,high,FREESHIP,10.0,37.93,0.4414,,True,sent,2025-11-09T22:44:02.771729
+CART5000,sujit.2005146@srec.ac.in,new,179.05,0.66,0.3,483.5,5,site_crash,high,FREESHIP,10.0,37.93,0.4414,35,True,sent,2025-11-09T22:45:44.171428
+CART5000,vishnupriyasundharamvishnu@gmail.com,new,179.05,0.66,0.3,483.5,5,site_crash,high,FREESHIP,10.0,37.93,0.4414,56,True,sent,2025-11-10T00:11:31.353462
+CART5000,vishnupriyasundharamvishnu@gmail.com,new,179.05,0.66,0.3,483.5,5,site_crash,high,FREESHIP,10.0,37.93,0.4414,,True,sent,2025-11-10T00:21:35.904347
+CART5000,vishnupriyasundharamvishnu@gmail.com,new,179.05,0.66,0.3,483.5,5,site_crash,high,FREESHIP,10.0,37.93,0.4414,60,True,sent,2025-11-10T02:46:09.617188
+CART5000,vishnupriyasundharamvishnu@gmail.com,new,179.05,0.66,0.3,483.5,5,site_crash,high,FREESHIP,10.0,37.93,0.4414,,False,pending,2025-11-10T11:39:03.153893
+CART5000,sujit.2005146@srec.ac.in,new,179.05,0.66,0.3,483.5,5,site_crash,high,FREESHIP,10.0,37.93,0.4414,,True,sent,2025-11-10T12:22:42.499334
+CART5000,sujit.2005146@srec.ac.in,new,179.05,0.66,0.3,483.5,5,site_crash,high,FREESHIP,10.0,37.93,0.4414,,False,pending,2025-11-10T13:30:30.680585
+CART5000,sujit.2005146@srec.ac.in,new,179.05,0.66,0.3,483.5,5,site_crash,high,FREESHIP,10.0,37.93,0.4414,,False,pending,2025-11-10T13:31:50.003117
+CART5000,sujit.2005146@srec.ac.in,new,179.05,0.66,0.3,483.5,5,site_crash,high,FREESHIP,10.0,37.93,0.4414,,False,pending,2025-11-10T13:45:37.044349
+CART5000,sujit.2005146@srec.ac.in,new,179.05,0.66,0.3,483.5,5,site_crash,high,FREESHIP,10.0,37.93,0.4414,48,False,pending,2025-11-10T14:00:48.619987
+CART5000,sujit.2005146@srec.ac.in,new,179.05,0.66,0.3,483.5,5,site_crash,high,FREESHIP,10.0,37.93,0.4414,,False,pending,2025-11-10T14:05:50.929233
+CART5000,sujit.2005146@srec.ac.in,new,179.05,0.66,0.3,483.5,5,site_crash,high,FREESHIP,10.0,37.93,0.4414,,False,pending,2025-11-10T14:23:14.110225
+CART5000,sujit.2005146@srec.ac.in,new,179.05,0.66,0.3,483.5,5,site_crash,high,FREESHIP,10.0,37.93,0.4163,,True,sent,2025-11-10T14:40:44.354623
+CART5000,sujit.2005146@srec.ac.in,new,179.05,0.66,0.3,483.5,5,site_crash,high,FREESHIP,10.0,37.93,0.4163,61,False,pending,2025-11-10T16:06:16.160539
+CART5000,sujit.2005146@srec.ac.in,new,179.05,0.66,0.3,483.5,5,site_crash,high,FREESHIP,10.0,37.93,0.4414,,False,pending,2025-11-10T16:07:58.572127
+CART5070,cust1070@example.com,new,842.41,0.56,0.02,2708.04,3,payment_failure,high,WELCOME10,50.0,38.15,0.5758,,True,sent,2025-11-10T16:14:05.510060
+CART5000,sujit.2005146@srec.ac.in,new,179.05,0.66,0.3,483.5,5,site_crash,high,FREESHIP,10.0,37.93,0.4224,76,False,pending,2025-11-10T21:06:04.533706
+CART5000,sujit.2005146@srec.ac.in,new,179.05,0.66,0.3,483.5,5,site_crash,high,FREESHIP,10.0,37.93,0.4414,,True,sent,2025-11-10T21:08:11.430910
+CART5000,sujit.2005146@srec.ac.in,new,179.05,0.66,0.3,483.5,5,site_crash,high,FREESHIP,10.0,37.93,0.4163,,True,sent,2025-11-10T21:14:51.808623
+CART5000,sujit.2005146@srec.ac.in,new,179.05,0.66,0.3,483.5,5,site_crash,high,FREESHIP,10.0,37.93,0.4414,,True,sent,2025-11-10T22:35:18.356184
+CART5000,sujit.2005146@srec.ac.in,new,179.05,0.66,0.3,483.5,5,site_crash,high,FREESHIP,10.0,37.93,0.4414,,True,sent,2025-11-11T01:43:45.049866
+CART5000,sujit.2005146@srec.ac.in,new,179.05,0.66,0.3,483.5,5,site_crash,high,FREESHIP,10.0,37.93,0.4414,,False,pending,2025-11-11T10:25:56.156899
+CART5000,sujit.2005146@srec.ac.in,new,179.05,0.66,0.3,483.5,5,site_crash,high,FREESHIP,10.0,37.93,0.4414,,True,sent,2025-11-11T15:56:05.601553
+CART5000,sujit.2005146@srec.ac.in,new,179.05,0.66,0.3,483.5,5,site_crash,high,FREESHIP,10.0,37.93,0.4414,,True,sent,2025-11-11T17:58:07.093862

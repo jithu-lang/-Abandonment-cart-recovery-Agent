@@ -30,8 +30,8 @@ venv/
 *.log
 
 # --- Temporary Outputs ---
-*.csv
-recovery_output.csv
+recovery_result.csv
+
 
 # --- OS Files ---
 .DS_Store

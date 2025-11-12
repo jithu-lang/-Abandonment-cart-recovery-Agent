@@ -1,0 +1,6 @@
+cart_id,customer_id,customer_email,cart_value,selected_offer,discount_amount,recovery_probability,ml_probability,customer_value_tier,offer_score,email_subject,steps_completed,status
+CART5000,CUST1000,sujit.2005146@srec.ac.in,483.5,FREESHIP,10.0,76,0.7,low,0.4224,Complete your order and save $10,126,SUCCESS
+CART5001,CUST1001,cust1001@example.com,1220.42,WELCOME10,50.0,64,0.8500000000000001,medium,0.3935,Complete your order and save $50,126,SUCCESS
+CART5002,CUST1002,cust1002@example.com,1591.64,WELCOME10,50.0,65,0.8500000000000001,medium,0.4219,Complete your order and save $50,126,SUCCESS
+CART5003,CUST1003,cust1003@example.com,52.49,REMINDER_ONLY,0.0,60,0.85,low,0.2,Your cart is still saved,126,SUCCESS
+CART5004,CUST1004,cust1004@example.com,445.68,WELCOME10,44.57,78,0.7,low,0.4054,Complete your order and save $44,126,SUCCESS

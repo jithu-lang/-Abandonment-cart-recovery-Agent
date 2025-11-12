@@ -1,0 +1,8 @@
+offer_code,discount_type,discount_value,min_cart_value,max_discount_amount,eligible_segments,eligible_categories,valid_from,valid_until,usage_limit_per_customer,roi_priority,description
+WELCOME10,percentage,10,50,50,new,all,2025-01-01,2025-12-31,1,0.8,Welcome offer for new customers
+SAVE15,percentage,15,100,100,"returning,vip",all,2025-01-01,2025-12-31,5,0.6,Loyalty discount for returning customers
+VIP20,percentage,20,200,200,vip,all,2025-01-01,2025-12-31,10,0.9,VIP exclusive discount
+FREESHIP,flat,10,75,10,all,all,2025-01-01,2025-12-31,999,0.5,Free standard shipping
+FASHION25,percentage,25,150,150,all,Fashion,2025-01-01,2025-12-31,3,0.7,Fashion category special offer
+ELECTRONICS30,flat,30,300,30,all,Electronics,2025-01-01,2025-12-31,2,0.4,Flat discount on electronics
+LASTCHANCE,percentage,12,60,80,all,all,2025-01-01,2025-12-31,999,0.5,Last chance to complete your order
