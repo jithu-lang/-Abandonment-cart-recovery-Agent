@@ -1,0 +1,41 @@
+# --- Python ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.egg-info/
+*.egg
+dist/
+build/
+.cache/
+
+agent.py
+traintest.py
+finaltest.py
+generate_dataset.py
+
+
+# --- Environments ---
+.env
+.env.*
+*.env
+venv/
+.venv/
+
+# --- VS Code ---
+.vscode/
+
+# --- Logs ---
+*.log
+
+# --- Temporary Outputs ---
+*.csv
+recovery_output.csv
+
+# --- OS Files ---
+.DS_Store
+Thumbs.db
+
+# --- Jupyter ---
+.ipynb_checkpoints/

@@ -1,0 +1,58 @@
+# ---------------------
+# Python cache & junk
+# ---------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ---------------------
+# Virtual environments
+# ---------------------
+venv/
+.env/
+.venv/
+env/
+*/pyvenv.cfg
+*/Lib/
+*/Include/
+*/Scripts/
+
+# ---------------------
+# ENV files (never include secrets in Docker)
+# ---------------------
+.env
+
+# ---------------------
+# Large local data files
+# ---------------------
+CartData.csv
+DiscountData.csv
+recovery_output.csv
+
+# dataset generator (local use only)
+generate_datasets_agent.py
+
+# ---------------------
+# ML artifacts (optional — keep ONLY if needed)
+# Uncomment if you DO NOT want to pack ML model into Docker
+# ML/*.joblib
+# ML/catboost_info/
+
+# ---------------------
+# IDE & dev files
+# ---------------------
+.vscode/
+.idea/
+
+# ---------------------
+# Git
+# ---------------------
+.git/
+.gitignore
+
+# ---------------------
+# Logs & temporary files
+# ---------------------
+*.log
+*.tmp
