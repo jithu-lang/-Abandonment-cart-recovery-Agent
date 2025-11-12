@@ -48,7 +48,7 @@ if  groq_api_key:
 else :     print(f"ERROR: {str()}")
     
 
-def mail(template: str, context: dict) -> str:
+def email(template: str, context: dict) -> str:
  def change(match):
      expr = match.group(1).strip()
      if "|" in expr:
@@ -466,7 +466,7 @@ def mail(state: CartRecoveryState) -> CartRecoveryState:
     "complete_order_url": f"https://mystore.com/recover/{state['cart_id']}"}
 
 
- final_email = mail(state['content'], 
+ final_email = email(state['content'], 
                     context)
  state['content'] = final_email
 
